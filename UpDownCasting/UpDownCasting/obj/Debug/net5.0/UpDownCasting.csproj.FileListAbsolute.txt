@@ -1,0 +1,16 @@
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\bin\Debug\net5.0\UpDownCasting.exe
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\bin\Debug\net5.0\UpDownCasting.deps.json
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\bin\Debug\net5.0\UpDownCasting.runtimeconfig.json
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\bin\Debug\net5.0\UpDownCasting.runtimeconfig.dev.json
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\bin\Debug\net5.0\UpDownCasting.dll
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\bin\Debug\net5.0\ref\UpDownCasting.dll
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\bin\Debug\net5.0\UpDownCasting.pdb
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\UpDownCasting.csproj.AssemblyReference.cache
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\UpDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\UpDownCasting.AssemblyInfoInputs.cache
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\UpDownCasting.AssemblyInfo.cs
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\UpDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\UpDownCasting.dll
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\ref\UpDownCasting.dll
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\UpDownCasting.pdb
+C:\Users\Bashir Azizov\source\repos\UpDownCasting\UpDownCasting\obj\Debug\net5.0\UpDownCasting.genruntimeconfig.cache
